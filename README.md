@@ -15,7 +15,7 @@ The project is planned to have a public website, student portal, and admin dashb
 This is the **temporary project structure**. It may change as development continues.
 
 ```text
-calestra-academy/│
+calestra-academy/
 ├── src/
 │   ├── components/
 │   │   ├── common/
