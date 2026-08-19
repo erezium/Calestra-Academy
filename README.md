@@ -1,4 +1,4 @@
-# Calestra Academy
+# Calestra Academy (Temporary README.md will be updated soon)
 
 ![Calestra Academy Logo](/src/assets/calestra.jpg)
 
@@ -15,10 +15,7 @@ The project is planned to have a public website, student portal, and admin dashb
 This is the **temporary project structure**. It may change as development continues.
 
 ```text
-calestra-academy/
-├── public/
-│   └── calestra.png
-│
+calestra-academy/│
 ├── src/
 │   ├── components/
 │   │   ├── common/
