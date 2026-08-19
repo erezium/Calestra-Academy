@@ -1,6 +1,6 @@
 # Calestra Academy
 
-![Calestra Academy Logo](./assets/logo.png)
+![Calestra Academy Logo](/src/assets/calestra.jpg)
 
 Calestra Academy is a fictional school website project made for learning and practicing web development.
 
@@ -8,7 +8,7 @@ The project is planned to have a public website, student portal, and admin dashb
 
 ## Flowchart
 
-![Calestra Academy Flowchart](./assets/flowchart.png)
+![Calestra Academy Flowchart](/src/assets/temporary-flowchart.png)
 
 ## Project Structure
 
